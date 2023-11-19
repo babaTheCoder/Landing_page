@@ -102,7 +102,7 @@ a,
 }
 
 .hero-image img:hover {
-  transform: skew(-5deg, 0);
+  rotate: -6deg;
 }
 
 .main {
